@@ -3,6 +3,7 @@
     "version": "1.0.0-beta.15",
     "name": "ng2auth"
   },
+  
   "apps": [
     {
       "root": "src",
